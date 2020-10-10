@@ -1,16 +1,22 @@
-### Hi there 👋
+Hello, my name is Renan, I am a student of software and hardware that seeks to program and build a world where people have no problems or difficulties in using technology.
 
-<!--
-**Renan3709/Renan3709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Which languages i study
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Badges creator: https://github.com/MikeCodesDotNET/ColoredBadges -->
+![Language1](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg)
+![Language2](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
+![Language3](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg)
+![Language4](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg)
+
+
+### My activity
+
+<!-- Card stats project: https://github.com/anuraghazra/github-readme-statshttps://github.com/anuraghazra/github-readme-stats  -->
+[![Lucas github stats](https://github-readme-stats.vercel.app/api?username=Renan3709)](https://github.com/Renan3709/github-readme-stats)
+
+### To see more, find me elsewhere:
+
+<a target="_blank" href="https://www.linkedin.com/in/renan-guimar%C3%A3es-a444251a6/">![Linkedin](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)
+ </a>
+
