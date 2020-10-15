@@ -17,6 +17,6 @@ Hello, my name is Renan, I am a student of software and hardware that seeks to p
 
 ### To see more, find me elsewhere:
 
-<a target="_blank" href= "https://www.linkedin.com/in/renan-guimar%C3%A3es-a444251a6/">![Linkedin](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)
+<a target="_blank" href= "https://www.linkedin.com/in/renan-guimar%C3%A3es-rodrigues-a444251a6/">![Linkedin](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)
  </a>
 
