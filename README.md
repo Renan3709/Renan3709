@@ -13,10 +13,10 @@ Hello, my name is Renan, I am a student of software and hardware that seeks to p
 ### My activity
 
 <!-- Card stats project: https://github.com/anuraghazra/github-readme-statshttps://github.com/anuraghazra/github-readme-stats  -->
-[![Lucas github stats](https://github-readme-stats.vercel.app/api?username=Renan3709)](https://github.com/Renan3709/github-readme-stats)
+[![Renan github stats](https://github-readme-stats.vercel.app/api?username=Renan3709)](https://github.com/Renan3709/github-readme-stats)
 
 ### To see more, find me elsewhere:
 
-<a target="_blank" href="https://www.linkedin.com/in/renan-guimar%C3%A3es-a444251a6/">![Linkedin](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)
+<a target="_blank" href= "https://www.linkedin.com/in/renan-guimar%C3%A3es-a444251a6/">![Linkedin](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)
  </a>
 
