@@ -9,8 +9,8 @@ Hello, my name is Renan, I am a student of software and hardware that seeks to p
 ![Language3](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg)
 ![Language4](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg)
 ![Language5](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg)
-![Language6](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/laravel.svg)
-![Language7](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/Bootstrap.svg)
+![Language6](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/Java.svg)
+
 
 
 ### My activity
